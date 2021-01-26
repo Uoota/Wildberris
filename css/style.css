@@ -1,0 +1,31 @@
+.nav {
+  list-style: none;
+  padding: 0;
+}
+
+.nav_link {
+  text-decoration: none;
+  font-family: "Lato", sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 20px;
+  color: #939699;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.button {
+  padding: 10px, 20px;
+  background: #4592ff;
+  border-radius: 20px;
+  border: none;
+  color: #fff;
+  font-family: "Lato", sans-serif;
+  display: flex;
+  align-items: center;
+}
+
+.button_icon {
+  margin-right: 10px;
+}
