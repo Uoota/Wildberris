@@ -16,7 +16,6 @@
 }
 
 .button {
-  padding: 10px, 20px;
   background: #4592ff;
   border-radius: 20px;
   border: none;
@@ -24,6 +23,7 @@
   font-family: "Lato", sans-serif;
   display: flex;
   align-items: center;
+  padding: 10px 20px;
 }
 
 .button_icon {
